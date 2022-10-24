@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhuvanhieuu.github.io/testwordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Mon, 17 Oct 2022 12:39:48 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Oct 2022 04:00:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
