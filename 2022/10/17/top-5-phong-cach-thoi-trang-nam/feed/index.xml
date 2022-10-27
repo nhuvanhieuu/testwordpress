@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho hieudeptrai&#039;Wordpress	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://nhuvanhieuu.github.io/testwordpress</link>
+	Các phản hồi luận về: BLOG	</title>
+	<atom:link href="http://localhost/myproject/wordpress/2022/10/17/top-5-phong-cach-thoi-trang-nam/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nhuvanhieuu.github.io/testwordpress/2022/10/17/top-5-phong-cach-thoi-trang-nam/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Thu, 27 Oct 2022 02:57:32 +0000</lastBuildDate>
 	<sy:updatePeriod>
